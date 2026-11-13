@@ -1,0 +1,12 @@
+{
+  "name": "api-jogos-express",
+  "version": "1.0.0",
+  "description": "API de jogos para atividade de Desenvolvimento Web 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
